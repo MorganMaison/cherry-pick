@@ -3,3 +3,5 @@ Peugeot
 Citroen
 Chrysler
 Jeep
+Toyota
+Nissan
